@@ -1,1 +1,1 @@
-# cv-alert-system
+# cv-wildlife-alert-system
